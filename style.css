@@ -1,0 +1,9 @@
+li{
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	margin-bottom: 5px;
+}
+li input{
+	margin-right: 5px;
+}
